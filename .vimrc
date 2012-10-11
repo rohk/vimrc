@@ -17,6 +17,7 @@ set number
 "General
 set showmatch
 set mouse=a
+set showcmd
 
 "Show current line and column
 set cursorcolumn
